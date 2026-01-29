@@ -9,5 +9,5 @@
 ### [School Dashboard - Power BI](link)
 500+ students · 12% improvement · Attendance-grade correlation  
 **Tech:** Power BI, DAX, Excel
-
+📧 rekikhazem1@gmail.com | 💼 [[LinkedIn](url)](https://www.linkedin.com/in/hazem-rekik/) | ⭐ Star if helpful!
 
